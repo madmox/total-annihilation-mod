@@ -9,13 +9,13 @@
 	Description=Radar Tower;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=800;
-	BuildCostMetal=50;
+	BuildCostEnergy=3200;
+	BuildCostMetal=200;
 	MaxDamage=51;
 	MaxWaterDepth=0;
 	MaxSlope=10;
-	EnergyUse=6;
-	BuildTime=1137;
+	EnergyUse=66;
+	BuildTime=4548;
 	BMcode=0;
 	Builder=0;
 	ThreeD=1;
