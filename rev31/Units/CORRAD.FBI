@@ -46,4 +46,5 @@
 	ActivateWhenBuilt=1;
 	onoffable=1;
 	BuildAngle=16384;
+	istargetingupgrade=1;
 	}
