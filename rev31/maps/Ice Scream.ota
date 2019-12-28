@@ -1,0 +1,86 @@
+[GlobalHeader]
+	{
+	missionname=Ice Scream;
+	missiondescription=15 X 39  Screaming won't be all you do on this forbidding world.;
+	planet=Ice;
+	tidalstrength=23;
+	killmul=50;
+	minwindspeed=3800;
+	maxwindspeed=5000;
+	gravity=112;
+	numplayers=2, 3, 4, 5, 6, 7, 8;
+	size=15 x 39;
+	memory=64 mb;
+	useonlyunits=Ice Scream.tdf;
+	SCHEMACOUNT=1;
+	[Schema 0]
+		{
+		Type=Network 1;
+		aiprofile=HoverWin;
+		SurfaceMetal=3;
+		MohoMetal=40;
+		[specials]
+			{
+			[special0]
+				{
+				specialwhat=StartPos1;
+				XPos=2352;
+				ZPos=8256;
+				}
+			[special1]
+				{
+				specialwhat=StartPos2;
+				XPos=3856;
+				ZPos=14016;
+				}
+			[special2]
+				{
+				specialwhat=StartPos3;
+				XPos=6304;
+				ZPos=4176;
+				}
+			[special3]
+				{
+				specialwhat=StartPos4;
+				XPos=480;
+				ZPos=4800;
+				}
+			[special4]
+				{
+				specialwhat=StartPos5;
+				XPos=6528;
+				ZPos=9648;
+				}
+			[special5]
+				{
+				specialwhat=StartPos6;
+				XPos=6640;
+				ZPos=17488;
+				}
+			[special6]
+				{
+				specialwhat=StartPos7;
+				XPos=4416;
+				ZPos=720;
+				}
+			[special7]
+				{
+				specialwhat=StartPos8;
+				XPos=768;
+				ZPos=18736;
+				}
+			[special8]
+				{
+				specialwhat=StartPos9;
+				XPos=3600;
+				ZPos=5456;
+				}
+			[special9]
+				{
+				specialwhat=StartPos10;
+				XPos=1232;
+				ZPos=13744;
+				}
+			}
+		}
+	}

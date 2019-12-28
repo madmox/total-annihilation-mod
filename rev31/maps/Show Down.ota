@@ -1,0 +1,86 @@
+[GlobalHeader]
+	{
+	missionname=Show Down;
+	missiondescription=11 X 5  Meet in the middle.;
+	planet=Lush;
+	tidalstrength=20;
+	killmul=50;
+	minwindspeed=2500;
+	maxwindspeed=4000;
+	gravity=112;
+	numplayers=2, 3;
+	size=11 x 5;
+	memory=16 mb;
+	useonlyunits=Showdown.tdf;
+	SCHEMACOUNT=1;
+	[Schema 0]
+		{
+		Type=Network 1;
+		aiprofile=WIND;
+		SurfaceMetal=3;
+		MohoMetal=40;
+		[specials]
+			{
+			[special0]
+				{
+				specialwhat=StartPos2;
+				XPos=4848;
+				ZPos=960;
+				}
+			[special1]
+				{
+				specialwhat=StartPos1;
+				XPos=128;
+				ZPos=944;
+				}
+			[special2]
+				{
+				specialwhat=StartPos3;
+				XPos=2592;
+				ZPos=976;
+				}
+			[special3]
+				{
+				specialwhat=StartPos4;
+				XPos=2080;
+				ZPos=128;
+				}
+			[special4]
+				{
+				specialwhat=StartPos5;
+				XPos=3136;
+				ZPos=1920;
+				}
+			[special5]
+				{
+				specialwhat=StartPos6;
+				XPos=656;
+				ZPos=1952;
+				}
+			[special6]
+				{
+				specialwhat=StartPos7;
+				XPos=4064;
+				ZPos=176;
+				}
+			[special7]
+				{
+				specialwhat=StartPos8;
+				XPos=832;
+				ZPos=64;
+				}
+			[special8]
+				{
+				specialwhat=StartPos9;
+				XPos=3856;
+				ZPos=2000;
+				}
+			[special9]
+				{
+				specialwhat=StartPos10;
+				XPos=1968;
+				ZPos=2000;
+				}
+			}
+		}
+	}

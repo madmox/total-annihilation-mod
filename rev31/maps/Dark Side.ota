@@ -1,0 +1,87 @@
+[GlobalHeader]
+	{
+	missionname=Darkside;
+	missiondescription=6 x 5  Lunar map with plenty of metal;
+	planet=Lunar;
+	tidalstrength=0;
+	killmul=50;
+	minwindspeed=0;
+	maxwindspeed=0;
+	gravity=20;
+	numplayers=2, 3;
+	size=6 x 5;
+	memory=16 mb;
+	useonlyunits=Darkside.tdf;
+	KillEnemyCommander=1;
+	SCHEMACOUNT=1;
+	[Schema 0]
+		{
+		Type=Network 1;
+		aiprofile=Small;
+		SurfaceMetal=5;
+		MohoMetal=30;
+		[specials]
+			{
+			[special0]
+				{
+				specialwhat=StartPos1;
+				XPos=896;
+				ZPos=2240;
+				}
+			[special1]
+				{
+				specialwhat=StartPos4;
+				XPos=64;
+				ZPos=1184;
+				}
+			[special2]
+				{
+				specialwhat=StartPos5;
+				XPos=2128;
+				ZPos=112;
+				}
+			[special3]
+				{
+				specialwhat=StartPos7;
+				XPos=1584;
+				ZPos=1120;
+				}
+			[special4]
+				{
+				specialwhat=StartPos8;
+				XPos=1584;
+				ZPos=544;
+				}
+			[special5]
+				{
+				specialwhat=StartPos9;
+				XPos=896;
+				ZPos=1488;
+				}
+			[special6]
+				{
+				specialwhat=StartPos10;
+				XPos=1984;
+				ZPos=1584;
+				}
+			[special7]
+				{
+				specialwhat=StartPos3;
+				XPos=1280;
+				ZPos=112;
+				}
+			[special8]
+				{
+				specialwhat=StartPos2;
+				XPos=2672;
+				ZPos=1024;
+				}
+			[special9]
+				{
+				specialwhat=StartPos6;
+				XPos=2000;
+				ZPos=2224;
+				}
+			}
+		}
+	}

@@ -1,0 +1,86 @@
+[GlobalHeader]
+	{
+	missionname=Brilliant Cut Lake;
+	missiondescription=15 X 15  Fighting around a large lake.;
+	planet=Crystal;
+	tidalstrength=10;
+	killmul=100;
+	minwindspeed=200;
+	maxwindspeed=5000;
+	gravity=105;
+	numplayers=2, 4;
+	size=16 x 16;
+	memory=16 mb;
+	useonlyunits=Brilliant Cut Lake.tdf;
+	SCHEMACOUNT=1;
+	[Schema 0]
+		{
+		Type=Network 1;
+		aiprofile=Urban;
+		SurfaceMetal=2;
+		MohoMetal=45;
+		[specials]
+			{
+			[special0]
+				{
+				specialwhat=StartPos1;
+				XPos=2144;
+				ZPos=7024;
+				}
+			[special1]
+				{
+				specialwhat=StartPos2;
+				XPos=5696;
+				ZPos=672;
+				}
+			[special2]
+				{
+				specialwhat=StartPos3;
+				XPos=6944;
+				ZPos=6272;
+				}
+			[special3]
+				{
+				specialwhat=StartPos4;
+				XPos=1616;
+				ZPos=672;
+				}
+			[special4]
+				{
+				specialwhat=StartPos5;
+				XPos=544;
+				ZPos=6096;
+				}
+			[special5]
+				{
+				specialwhat=StartPos6;
+				XPos=7296;
+				ZPos=1168;
+				}
+			[special6]
+				{
+				specialwhat=StartPos7;
+				XPos=6096;
+				ZPos=6976;
+				}
+			[special7]
+				{
+				specialwhat=StartPos8;
+				XPos=976;
+				ZPos=1920;
+				}
+			[special8]
+				{
+				specialwhat=StartPos9;
+				XPos=2848;
+				ZPos=3168;
+				}
+			[special9]
+				{
+				specialwhat=StartPos10;
+				XPos=5184;
+				ZPos=4704;
+				}
+			}
+		}
+	}

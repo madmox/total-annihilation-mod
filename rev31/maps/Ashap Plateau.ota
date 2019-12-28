@@ -1,0 +1,86 @@
+[GlobalHeader]
+	{
+	missionname=Ashap Plateau;
+	missiondescription=9 X 9  Metal on Rough lower level;
+	planet=Red Planet;
+	tidalstrength=0;
+	killmul=50;
+	minwindspeed=0;
+	maxwindspeed=4000;
+	gravity=112;
+	numplayers=2, 4;
+	size=9 x 9;
+	memory=16 mb;
+	useonlyunits=Ashap Plateau.tdf;
+	SCHEMACOUNT=1;
+	[Schema 0]
+		{
+		Type=Network 1;
+		aiprofile=Small;
+		SurfaceMetal=3;
+		MohoMetal=40;
+		[specials]
+			{
+			[special0]
+				{
+				specialwhat=StartPos1;
+				XPos=3504;
+				ZPos=304;
+				}
+			[special1]
+				{
+				specialwhat=StartPos2;
+				XPos=848;
+				ZPos=3696;
+				}
+			[special2]
+				{
+				specialwhat=StartPos3;
+				XPos=752;
+				ZPos=384;
+				}
+			[special3]
+				{
+				specialwhat=StartPos4;
+				XPos=3344;
+				ZPos=3728;
+				}
+			[special4]
+				{
+				specialwhat=StartPos5;
+				XPos=3280;
+				ZPos=304;
+				}
+			[special5]
+				{
+				specialwhat=StartPos6;
+				XPos=640;
+				ZPos=3664;
+				}
+			[special6]
+				{
+				specialwhat=StartPos7;
+				XPos=864;
+				ZPos=352;
+				}
+			[special7]
+				{
+				specialwhat=StartPos8;
+				XPos=3136;
+				ZPos=3744;
+				}
+			[special8]
+				{
+				specialwhat=StartPos9;
+				XPos=2048;
+				ZPos=208;
+				}
+			[special9]
+				{
+				specialwhat=StartPos10;
+				XPos=2080;
+				ZPos=3872;
+				}
+			}
+		}
+	}
