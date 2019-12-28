@@ -44,4 +44,5 @@
 	ActivateWhenBuilt=1;
 	istargetingupgrade=1;
 	DamageModifier=0.7;
+	RadarDistance=32000;
 	}
