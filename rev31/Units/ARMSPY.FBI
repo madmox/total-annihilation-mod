@@ -63,4 +63,5 @@
 	wpri_badTargetCategory=CTRL_V;
 	BadTargetCategory=MOBILE;
 	NoChaseCategory=MOBILE;
+	Stealth=1;
 	}

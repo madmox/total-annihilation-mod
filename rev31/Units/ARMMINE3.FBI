@@ -55,4 +55,5 @@
 	DamageModifier=10;
 	Onoffable=1;
 	ActivateWhenBuilt=0;
+	Stealth=1;
 	}

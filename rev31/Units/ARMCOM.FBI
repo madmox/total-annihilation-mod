@@ -80,4 +80,5 @@
 	wspe_BadTargetCategory=CTRL_V;
 	BadTargetCategory=UNDERWATER;
 	NoChaseCategory=CTRL_V;
+	Stealth=1;
 	}

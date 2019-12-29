@@ -65,4 +65,5 @@
 	CloakCost=780;
 	CloakCostMoving=1100;
 	mincloakdistance=40;
+	Stealth=1;
 	}
