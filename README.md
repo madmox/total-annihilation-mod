@@ -1,5 +1,5 @@
 # Total Annihilation: Redux
-This mod is based on [Switech](http://switeck.tauniverse.com/)'s [TA Bugfix mod](https://files.tauniverse.com/files/ta/mods/ta-bugfix/), and was originally created to integrate automatic radar targeting as a default to TA (instead of relying on the expensive radar targeting facility), on top of the other fixes implemented by Switeck.
+This mod is based on [Switeck](http://switeck.tauniverse.com/)'s [TA Bugfix mod](https://files.tauniverse.com/files/ta/mods/ta-bugfix/), and was originally created to integrate automatic radar targeting as a default to TA (instead of relying on the expensive radar targeting facility), on top of the other fixes implemented by Switeck.
 
 ## Installation instructions
 To install this mod, you have to download the latest release, unpack the zip archive into your TA install directory (Cavedog's [original v3.1 TA from GOG.com](https://www.gog.com/game/total_anihilation_commander_pack), or the [unofficial v3.9.02 patch](https://files.tauniverse.com/files/ta/unofficial-patch/)), and execute `ta-redux-install.cmd`. To revert back to your original installation, simply execute `ta-redux-uninstall.cmd`.
