@@ -9,13 +9,13 @@
 	Description=SPY Kbot;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=9219;
+	BuildCostEnergy=2305;
 	BuildCostMetal=128;
 	MaxDamage=270;
 	MaxWaterDepth=12;
 	MaxSlope=14;
 	EnergyUse=0.4;
-	BuildTime=22631;
+	BuildTime=5658;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;
@@ -55,8 +55,8 @@
 	maneuverleashlength=640;
 	MovementClass=TANKSH2;
 	Upright=1;
-	CloakCost=210;
-	CloakCostMoving=800;
+	CloakCost=52;
+	CloakCostMoving=200;
 	mincloakdistance=80;
 	canattack=1;
 	Weapon1=CORHRK_ROCKET;

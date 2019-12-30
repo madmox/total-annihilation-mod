@@ -9,13 +9,13 @@
 	Description=Sniper Kbot;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=14727;
-	BuildCostMetal=935;
+	BuildCostEnergy=7364;
+	BuildCostMetal=468;
 	MaxDamage=320;
 	MaxWaterDepth=22;
 	MaxSlope=14;
 	EnergyUse=0.9;
-	BuildTime=28137;
+	BuildTime=14069;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;
@@ -62,8 +62,8 @@
 	wpri_badTargetCategory=CTRL_V;
 	BadTargetCategory=LEVEL1;
 	NoChaseCategory=MOBILE;
-	CloakCost=780;
-	CloakCostMoving=1100;
+	CloakCost=195;
+	CloakCostMoving=275;
 	mincloakdistance=40;
 	Stealth=1;
 	}
