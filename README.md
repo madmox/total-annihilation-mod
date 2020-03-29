@@ -96,6 +96,7 @@ The first goal is to balance the units of the same type and level together, so t
 * Spectre: No change.
 * Parasite: Decreased build time, resources cost, cloaking cost.
 * The Can: Increased max damage.
+* Sumo: Decreased resources cost. Increased max damage.
 * Dominator: Increased max damage.
 * Morty: No change.
 * Decoy Commander: No change.
