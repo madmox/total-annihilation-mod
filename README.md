@@ -8,18 +8,18 @@ To install this mod, you have to download the latest release, unpack the zip arc
 The following changes were made to TA units.
 
 ### Radars, jammers, radar targetting, cloaking
-* Radar towers and advanced radar towers enable automatic radar targeting. Their metal and energy costs have been increased, as well as their build time and energy consumption.
-* The radar targeting facility now has an embedded infinite range radar, so that it can still be used.
-* All cloakable units now have stealth: they don't appear on the opponent's radar and can't be radar targeted. Some cloakable unit costs (build cost and energy consumption) have also been reduced to playable values.
+* Radar towers and advanced radar towers enable automatic radar targeting (you just need one to enable it for all your units, just like the targeting facility does normally). Their metal and energy costs have been increased (x4), as well as their build time (x4) and energy consumption (x12).
+* The radar targeting facility has an embedded infinite range radar, so that it doesn't become completely useless.
+* All cloakable units have stealth: they don't appear on the opponent's radar and can't be radar targeted. Some cloakable unit costs (build cost and energy consumption) have also been reduced to playable values.
 
 These changes make radar towers and advanced radar towers key structures in your base, but the increased cost also means you won't be able to spam them. This should enable new raiding strategies, as well as increase the importance of mobile radar and jamming units later in the game, because these are now comparatively a lot cheaper than radar towers. Even though you still need at least one tower to benefit from automatic radar targeting.
 
 Cloakable units now also have their use for infiltration, as they gained stealth. This ability was added because cloaking does not remove the unit from the opponent's radar, so making them always stealth was the only viable option. Offensive cloakable units costs have also been greatly reduced so that you don't need one fusion reactor per unit. One side effect is the fact that commanders cannot be radar targeted anymore (bertha, random long range fire...).
 
 ### Unit balance
-This mod attempts to slightly balance military units by altering the following characteristics: resources cost (metal & energy), build time and max damage. In rare cases other characteristics will also be altered.
+The mod also attempts to slightly balance mobile military units (kbots, vehicles, aircraft, ships...) by altering the following characteristics: resources cost (metal and/or energy), build time and max damage. In rare cases other characteristics have also been altered.
 
-The first goal is to balance the units of the same type and level together, so that the most appropriate unit to build only depends on what you are trying to achieve (counter air, raid resources, destroy defenses, etc.), and there are no over- (or under-) powered units in a factory. The second goal is to balance unit types, so that the best option is not always vehicles over kbots (for example). The 3rd goal is to make level 2 factories a little bit more attractive, so that they are not useless 90% of the games (even smaller maps).
+The first goal is to balance the units of the same type and level together, so that the most appropriate unit to build only depends on what you are trying to achieve (counter air, raid resources, destroy defenses, etc.), and there are no over- (or under-) powered units in a factory. The second goal is to balance unit types, so that the best option is not always vehicles over kbots (for example). The 3rd goal is to make level 2 factories a little bit more attractive, so that they are not useless 90% of the games (even in smaller maps).
 
 #### ARM level 1 kbots
 * Peewee: No change.
@@ -81,10 +81,10 @@ The first goal is to balance the units of the same type and level together, so t
 * Pelican: No change.
 * Marky: No change.
 * Eraser: No change.
-* Infiltrator: Decreased build time, resources cost, cloaking cost.
+* Infiltrator: Decreased build time, resources cost, cloaking cost. Added stealth.
 * Fido: Increased max damage.
 * Maverick: Decreased max damage.
-* Shooter: Decreased build time, resources cost, cloaking cost.
+* Shooter: Decreased build time, resources cost, cloaking cost. Added stealth.
 * Fark: Decreased max damage, max velocity.
 
 #### CORE level 2 kbots
@@ -94,7 +94,7 @@ The first goal is to balance the units of the same type and level together, so t
 * Gimp: Increased max velocity.
 * Voyeur: No change.
 * Spectre: No change.
-* Parasite: Decreased build time, resources cost, cloaking cost.
+* Parasite: Decreased build time, resources cost, cloaking cost. Added stealth.
 * The Can: Increased max damage.
 * Sumo: Decreased resources cost. Increased max damage.
 * Dominator: Increased max damage.
