@@ -9,13 +9,13 @@
 	Description=Hovercraft Rocket Launcher;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=3352;
-	BuildCostMetal=318;
+	BuildCostEnergy=2852;
+	BuildCostMetal=268;
 	MaxDamage=460;
 	MaxWaterDepth=0;
 	MaxSlope=16;
 	EnergyUse=2.6;
-	BuildTime=19124;
+	BuildTime=14124;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

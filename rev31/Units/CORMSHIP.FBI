@@ -9,8 +9,8 @@
 	Description=Missile Ship;
 	FootprintX=6;
 	FootprintZ=6;
-	BuildCostEnergy=7628;
-	BuildCostMetal=2283;
+	BuildCostEnergy=6628;
+	BuildCostMetal=1783;
 	MaxDamage=1250;
 	EnergyUse=0.9;
 	BuildTime=22126;

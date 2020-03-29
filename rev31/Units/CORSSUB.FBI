@@ -9,11 +9,11 @@
 	Description=Battle Sub;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=19940;
-	BuildCostMetal=3850;
+	BuildCostEnergy=15940;
+	BuildCostMetal=3050;
 	MaxDamage=3052;
 	EnergyUse=15;
-	BuildTime=38567;
+	BuildTime=30567;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

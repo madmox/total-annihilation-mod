@@ -9,12 +9,12 @@
 	Description=Spider Assault Vehicle;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=2200;
-	BuildCostMetal=230;
-	MaxDamage=450;
+	BuildCostEnergy=2000;
+	BuildCostMetal=210;
+	MaxDamage=550;
 	MaxWaterDepth=12;
 	EnergyUse=0.7;
-	BuildTime=6075;
+	BuildTime=5275;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

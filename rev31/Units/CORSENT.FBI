@@ -9,13 +9,13 @@
 	Description=Mobile Flak Vehicle;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=12487;
-	BuildCostMetal=886;
+	BuildCostEnergy=8487;
+	BuildCostMetal=686;
 	MaxDamage=685;
 	MaxWaterDepth=12;
 	MaxSlope=14;
 	EnergyUse=0.8;
-	BuildTime=23975;
+	BuildTime=16975;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

@@ -9,13 +9,13 @@
 	Description=Heavy Assault Tank;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=2994;
-	BuildCostMetal=467;
+	BuildCostEnergy=2694;
+	BuildCostMetal=407;
 	MaxDamage=2102;
 	MaxWaterDepth=32;
 	MaxSlope=12;
 	EnergyUse=0.8;
-	BuildTime=8675;
+	BuildTime=7675;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;
@@ -48,7 +48,7 @@
 	canguard=1;
 	MaxVelocity=1.1;
 	BrakeRate=0.007629395;
-	Acceleration=0.01;
+	Acceleration=0.015;
 	TurnRate=300;
 	SteeringMode=1;
 	ShootMe=1;

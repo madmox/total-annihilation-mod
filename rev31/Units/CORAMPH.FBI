@@ -45,7 +45,7 @@
 	ItalianName=Gimp;
 	ItalianDescription=Kbot anfibio;
 	canguard=1;
-	MaxVelocity=.8;
+	MaxVelocity=1.4;
 	BrakeRate=0.15;
 	Acceleration=0.04;
 	TurnRate=500;

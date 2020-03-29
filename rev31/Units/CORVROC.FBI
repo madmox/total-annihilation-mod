@@ -8,13 +8,13 @@
 	Description=Mobile Rocket Launcher;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=2470;
-	BuildCostMetal=427;
-	MaxDamage=602;
+	BuildCostEnergy=2220;
+	BuildCostMetal=387;
+	MaxDamage=652;
 	MaxWaterDepth=12;
 	MaxSlope=16;
 	EnergyUse=0.5;
-	BuildTime=9002;
+	BuildTime=8102;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

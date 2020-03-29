@@ -9,9 +9,9 @@
 	Description=Mobile Missile Launcher;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=1027;
-	BuildCostMetal=119;
-	MaxDamage=650;
+	BuildCostEnergy=1077;
+	BuildCostMetal=124;
+	MaxDamage=615;
 	MaxWaterDepth=12;
 	MaxSlope=16;
 	EnergyUse=0.5;

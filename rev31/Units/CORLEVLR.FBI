@@ -9,13 +9,13 @@
 	Description=Riot Tank;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=1887;
-	BuildCostMetal=292;
-	MaxDamage=375;
+	BuildCostEnergy=1687;
+	BuildCostMetal=262;
+	MaxDamage=410;
 	MaxWaterDepth=12;
 	MaxSlope=17;
 	EnergyUse=0.3;
-	BuildTime=4209;
+	BuildTime=3809;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

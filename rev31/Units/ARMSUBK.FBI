@@ -9,9 +9,9 @@
 	Description=Submarine Killer;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=5481;
-	BuildCostMetal=1448;
-	MaxDamage=290;
+	BuildCostEnergy=4981;
+	BuildCostMetal=1248;
+	MaxDamage=340;
 	EnergyUse=0.5;
 	BuildTime=17767;
 	BMcode=1;

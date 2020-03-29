@@ -9,13 +9,13 @@
 	Description=Anti-Air Kbot;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=1219;
-	BuildCostMetal=128;
-	MaxDamage=470;
+	BuildCostEnergy=1019;
+	BuildCostMetal=108;
+	MaxDamage=430;
 	MaxWaterDepth=12;
 	MaxSlope=14;
 	EnergyUse=0.4;
-	BuildTime=2631;
+	BuildTime=2131;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

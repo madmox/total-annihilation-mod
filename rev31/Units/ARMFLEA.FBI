@@ -9,13 +9,13 @@
 	Description=Fast Light Scout Kbot;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=712;
-	BuildCostMetal=44;
-	MaxDamage=75;
+	BuildCostEnergy=512;
+	BuildCostMetal=34;
+	MaxDamage=95;
 	MaxWaterDepth=0;
 	MaxSlope=32;
 	EnergyUse=0.4;
-	BuildTime=2013;
+	BuildTime=1413;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

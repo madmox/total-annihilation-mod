@@ -11,7 +11,7 @@
 	FootprintZ=3;
 	BuildCostEnergy=2310;
 	BuildCostMetal=295;
-	MaxDamage=1144;
+	MaxDamage=1344;
 	MaxWaterDepth=255;
 	MaxSlope=12;
 	EnergyUse=0.5;
@@ -46,7 +46,7 @@
 	ItalianName=Crock;
 	ItalianDescription=Carro armato anfibio;
 	canguard=1;
-	MaxVelocity=1.2;
+	MaxVelocity=1.5;
 	BrakeRate=0.008;
 	Acceleration=0.008;
 	TurnRate=320;

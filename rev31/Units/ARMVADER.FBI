@@ -9,13 +9,13 @@
 	Description=Crawling Bomb;
 	FootprintX=1;
 	FootprintZ=1;
-	BuildCostEnergy=5473;
-	BuildCostMetal=61;
+	BuildCostEnergy=4973;
+	BuildCostMetal=51;
 	MaxDamage=185;
 	MaxWaterDepth=112;
 	MaxSlope=32;
 	EnergyUse=0.1;
-	BuildTime=7901;
+	BuildTime=5901;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

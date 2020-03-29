@@ -11,11 +11,11 @@
 	FootprintZ=3;
 	BuildCostEnergy=1542;
 	BuildCostMetal=115;
-	MaxDamage=395;
+	MaxDamage=495;
 	MaxWaterDepth=0;
 	MaxSlope=16;
 	EnergyUse=2.6;
-	BuildTime=3747;
+	BuildTime=2747;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

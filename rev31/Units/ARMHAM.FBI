@@ -9,13 +9,13 @@
 	Description=Artillery Kbot;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=1187;
-	BuildCostMetal=151;
+	BuildCostEnergy=1067;
+	BuildCostMetal=136;
 	MaxDamage=800;
 	MaxWaterDepth=12;
 	MaxSlope=14;
 	EnergyUse=0.6;
-	BuildTime=2340;
+	BuildTime=2110;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

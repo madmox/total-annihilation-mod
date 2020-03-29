@@ -9,13 +9,13 @@
 	Description=Torpedo Seaplane;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=9785;
-	BuildCostMetal=545;
+	BuildCostEnergy=7785;
+	BuildCostMetal=445;
 	MaxDamage=210;
 	MaxWaterDepth=0;
 	MaxSlope=10;
 	EnergyUse=0.7;
-	BuildTime=23698;
+	BuildTime=17698;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

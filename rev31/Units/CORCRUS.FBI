@@ -9,8 +9,8 @@
 	Description=Cruiser;
 	FootprintX=5;
 	FootprintZ=5;
-	BuildCostEnergy=8551;
-	BuildCostMetal=1724;
+	BuildCostEnergy=8051;
+	BuildCostMetal=1574;
 	MaxDamage=4170;
 	EnergyUse=2.2;
 	BuildTime=17050;

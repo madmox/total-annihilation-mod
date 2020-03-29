@@ -9,13 +9,13 @@
 	Description=Fast Attack Kbot;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=2221;
-	BuildCostMetal=151;
+	BuildCostEnergy=1821;
+	BuildCostMetal=121;
 	MaxDamage=550;
 	MaxWaterDepth=12;
 	MaxSlope=17;
 	EnergyUse=0.4;
-	BuildTime=6768;
+	BuildTime=3368;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

@@ -9,13 +9,13 @@
 	Description=Torpedo Bomber;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=6588;
-	BuildCostMetal=364;
+	BuildCostEnergy=5988;
+	BuildCostMetal=324;
 	MaxDamage=375;
 	MaxWaterDepth=0;
 	MaxSlope=10;
 	EnergyUse=0.5;
-	BuildTime=13722;
+	BuildTime=11722;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

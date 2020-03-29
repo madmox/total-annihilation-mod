@@ -11,7 +11,7 @@
 	FootprintZ=2;
 	BuildCostEnergy=10164;
 	BuildCostMetal=376;
-	MaxDamage=470;
+	MaxDamage=570;
 	MaxWaterDepth=22;
 	MaxSlope=14;
 	EnergyUse=0.4;
@@ -48,7 +48,7 @@
 	ItalianName=Necro;
 	ItalianDescription=Kbot Resurrection;
 	canguard=1;
-	MaxVelocity=1.4;
+	MaxVelocity=1.8;
 	BrakeRate=0.15;
 	Acceleration=0.1;
 	TurnRate=1016;

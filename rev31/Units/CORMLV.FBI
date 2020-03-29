@@ -9,13 +9,13 @@
 	Description=Mine Layer Vehicle;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=1117;
-	BuildCostMetal=187;
+	BuildCostEnergy=558;
+	BuildCostMetal=93;
 	MaxDamage=1400;
 	MaxWaterDepth=0;
 	MaxSlope=16;
 	EnergyUse=1;
-	BuildTime=1740;
+	BuildTime=870;
 	WorkerTime=100;
 	BMcode=1;
 	Builder=1;

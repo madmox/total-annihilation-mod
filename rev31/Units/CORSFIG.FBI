@@ -9,13 +9,13 @@
 	Description=Seaplane Fighter;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=6524;
-	BuildCostMetal=182;
+	BuildCostEnergy=4524;
+	BuildCostMetal=122;
 	MaxDamage=159;
 	MaxWaterDepth=0;
 	MaxSlope=10;
 	EnergyUse=0.7;
-	BuildTime=14857;
+	BuildTime=10857;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

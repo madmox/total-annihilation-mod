@@ -9,7 +9,7 @@
 	Description=Stealth Fighter;
 	FootprintX=2;
 	FootprintZ=2;
-	BuildCostEnergy=6973;
+	BuildCostEnergy=7473;
 	BuildCostMetal=257;
 	MaxDamage=490;
 	MaxWaterDepth=0;

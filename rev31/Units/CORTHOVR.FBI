@@ -9,11 +9,11 @@
 	Description=Transport Hovercraft;
 	FootprintX=4;
 	FootprintZ=4;
-	BuildCostEnergy=7541;
-	BuildCostMetal=650;
+	BuildCostEnergy=3541;
+	BuildCostMetal=350;
 	MaxDamage=1080;
 	EnergyUse=2.3;
-	BuildTime=19587;
+	BuildTime=8587;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

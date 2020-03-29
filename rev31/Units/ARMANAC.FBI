@@ -9,13 +9,13 @@
 	Description=Hovertank;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=2856;
-	BuildCostMetal=272;
+	BuildCostEnergy=2356;
+	BuildCostMetal=222;
 	MaxDamage=880;
 	MaxWaterDepth=0;
 	MaxSlope=16;
 	EnergyUse=2.6;
-	BuildTime=8115;
+	BuildTime=6115;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;

@@ -9,13 +9,13 @@
 	Description=Mobile Artillery;
 	FootprintX=3;
 	FootprintZ=3;
-	BuildCostEnergy=2140;
-	BuildCostMetal=264;
-	MaxDamage=525;
+	BuildCostEnergy=1840;
+	BuildCostMetal=234;
+	MaxDamage=625;
 	MaxWaterDepth=0;
 	MaxSlope=12;
 	EnergyUse=0.4;
-	BuildTime=4530;
+	BuildTime=4030;
 	BMcode=1;
 	Builder=0;
 	ThreeD=1;
