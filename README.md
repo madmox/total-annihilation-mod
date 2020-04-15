@@ -4,6 +4,9 @@ This mod is based on [Switeck](http://switeck.tauniverse.com/)'s [TA Bugfix mod]
 ## Installation instructions
 To install this mod, you have to download the latest release, unpack the zip archive into your TA install directory (Cavedog's [original v3.1 TA from GOG.com](https://www.gog.com/game/total_anihilation_commander_pack), or the [unofficial v3.9.02 patch](https://files.tauniverse.com/files/ta/unofficial-patch/)), and execute `ta-redux-install.cmd`. To revert back to your original installation, simply execute `ta-redux-uninstall.cmd`.
 
+## Build from source
+Open `HPIPack.exe` from the `tools` directory, and click the "pack" button using "TA" Program and "TA:CC" Compression Method. The new release is generated into the release folder, you just have to drop these files in your TA directory and execute `ta-redux-uninstall.cmd` to install it (make sure to uninstall any previous version before).
+
 ## Unit changes
 The following changes were made to TA units.
 
